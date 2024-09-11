@@ -185,3 +185,6 @@ QUALITY WORK
     padding: 48px 0;
 }
 
+.quality__header {
+    display: flex;
+}
